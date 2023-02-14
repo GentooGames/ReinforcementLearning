@@ -3,6 +3,7 @@
     {"name":"sprites","order":2,"path":"folders/sprites.yy",},
     {"name":"tilesets","order":1,"path":"folders/tilesets.yy",},
     {"name":"objects","order":3,"path":"folders/objects.yy",},
+    {"name":"scripts","order":4,"path":"folders/scripts.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_penguin_walk","order":2,"path":"sprites/spr_penguin_walk/spr_penguin_walk.yy",},
