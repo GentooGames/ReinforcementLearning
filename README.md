@@ -1,2 +1,2 @@
-# RL
+# Reinforcement Learning
 reinforcement learning models
