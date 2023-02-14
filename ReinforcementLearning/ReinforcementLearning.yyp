@@ -14,6 +14,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"rooms","folderPath":"folders/rooms.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sprites","folderPath":"folders/sprites.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/tilesets.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"objects","folderPath":"folders/objects.yy","order":0,},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -22,9 +23,13 @@
   },
   "resources": [
     {"id":{"name":"spr_tileset_icy_land","path":"sprites/spr_tileset_icy_land/spr_tileset_icy_land.yy",},"order":0,},
+    {"id":{"name":"spr_penguin_walk","path":"sprites/spr_penguin_walk/spr_penguin_walk.yy",},"order":0,},
     {"id":{"name":"spr_tileset_icy_props","path":"sprites/spr_tileset_icy_props/spr_tileset_icy_props.yy",},"order":0,},
     {"id":{"name":"ts_icy_land","path":"tilesets/ts_icy_land/ts_icy_land.yy",},"order":0,},
+    {"id":{"name":"objc_game","path":"objects/objc_game/objc_game.yy",},"order":0,},
+    {"id":{"name":"obj_ql_agent","path":"objects/obj_ql_agent/obj_ql_agent.yy",},"order":0,},
     {"id":{"name":"ts_icy_props","path":"tilesets/ts_icy_props/ts_icy_props.yy",},"order":0,},
+    {"id":{"name":"spr_penguin_idle","path":"sprites/spr_penguin_idle/spr_penguin_idle.yy",},"order":0,},
     {"id":{"name":"rm_ql","path":"rooms/rm_ql/rm_ql.yy",},"order":0,},
   ],
   "RoomOrderNodes": [

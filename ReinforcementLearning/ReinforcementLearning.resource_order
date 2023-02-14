@@ -2,9 +2,13 @@
   "FolderOrderSettings": [
     {"name":"sprites","order":2,"path":"folders/sprites.yy",},
     {"name":"tilesets","order":1,"path":"folders/tilesets.yy",},
+    {"name":"objects","order":3,"path":"folders/objects.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_penguin_walk","order":2,"path":"sprites/spr_penguin_walk/spr_penguin_walk.yy",},
     {"name":"spr_tileset_icy_props","order":1,"path":"sprites/spr_tileset_icy_props/spr_tileset_icy_props.yy",},
+    {"name":"objc_game","order":1,"path":"objects/objc_game/objc_game.yy",},
     {"name":"ts_icy_props","order":1,"path":"tilesets/ts_icy_props/ts_icy_props.yy",},
+    {"name":"spr_penguin_idle","order":3,"path":"sprites/spr_penguin_idle/spr_penguin_idle.yy",},
   ],
 }
