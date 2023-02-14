@@ -14,9 +14,20 @@
 	// private .............
 	this = {};
 	with (this) {
-		__i = 0;
-		__j = 0;
+		__i		  = _self[$ "i"] ?? 0;
+		__j		  = _self[$ "j"] ?? 0;
+		__i_start = __i;
+		__j_start = __j;
 	};
 	
 	// public ..............
+	start	= function() {};
+	stop	= function() {};
+	restart = function() {};
 	
+	get_i	= function() {
+		return this.__i;
+	};
+	get_j	= function() {
+		return this.__j;
+	};

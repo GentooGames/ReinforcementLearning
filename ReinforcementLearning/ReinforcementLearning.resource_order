@@ -1,18 +1,19 @@
 {
   "FolderOrderSettings": [
-    {"name":"sprites","order":2,"path":"folders/sprites.yy",},
+    {"name":"rooms","order":4,"path":"folders/rooms.yy",},
     {"name":"tilesets","order":1,"path":"folders/tilesets.yy",},
-    {"name":"objects","order":3,"path":"folders/objects.yy",},
-    {"name":"scripts","order":4,"path":"folders/scripts.yy",},
+    {"name":"objects","order":2,"path":"folders/objects.yy",},
+    {"name":"scripts","order":3,"path":"folders/scripts.yy",},
+    {"name":"controllers","order":4,"path":"folders/objects/controllers.yy",},
+    {"name":"world","order":5,"path":"folders/objects/world.yy",},
+    {"name":"agents","order":6,"path":"folders/objects/agents.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_penguin_walk","order":2,"path":"sprites/spr_penguin_walk/spr_penguin_walk.yy",},
-    {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"spr_penguin_walk","order":3,"path":"sprites/spr_penguin_walk/spr_penguin_walk.yy",},
     {"name":"spr_tileset_icy_props","order":1,"path":"sprites/spr_tileset_icy_props/spr_tileset_icy_props.yy",},
-    {"name":"objc_game","order":1,"path":"objects/objc_game/objc_game.yy",},
     {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"ts_icy_props","order":1,"path":"tilesets/ts_icy_props/ts_icy_props.yy",},
-    {"name":"spr_penguin_idle","order":3,"path":"sprites/spr_penguin_idle/spr_penguin_idle.yy",},
-    {"name":"objc_grid","order":2,"path":"objects/objc_grid/objc_grid.yy",},
+    {"name":"spr_penguin_idle","order":2,"path":"sprites/spr_penguin_idle/spr_penguin_idle.yy",},
+    {"name":"objc_grid","order":1,"path":"objects/objc_grid/objc_grid.yy",},
   ],
 }
