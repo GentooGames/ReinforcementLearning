@@ -24,16 +24,19 @@
   "resources": [
     {"id":{"name":"spr_tileset_icy_land","path":"sprites/spr_tileset_icy_land/spr_tileset_icy_land.yy",},"order":0,},
     {"id":{"name":"spr_penguin_walk","path":"sprites/spr_penguin_walk/spr_penguin_walk.yy",},"order":0,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":0,},
     {"id":{"name":"spr_tileset_icy_props","path":"sprites/spr_tileset_icy_props/spr_tileset_icy_props.yy",},"order":0,},
     {"id":{"name":"ts_icy_land","path":"tilesets/ts_icy_land/ts_icy_land.yy",},"order":0,},
     {"id":{"name":"objc_game","path":"objects/objc_game/objc_game.yy",},"order":0,},
-    {"id":{"name":"obj_ql_agent","path":"objects/obj_ql_agent/obj_ql_agent.yy",},"order":0,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":0,},
+    {"id":{"name":"obj_agent_QL","path":"objects/obj_agent_QL/obj_agent_QL.yy",},"order":0,},
     {"id":{"name":"ts_icy_props","path":"tilesets/ts_icy_props/ts_icy_props.yy",},"order":0,},
     {"id":{"name":"spr_penguin_idle","path":"sprites/spr_penguin_idle/spr_penguin_idle.yy",},"order":0,},
-    {"id":{"name":"rm_ql","path":"rooms/rm_ql/rm_ql.yy",},"order":0,},
+    {"id":{"name":"objc_grid","path":"objects/objc_grid/objc_grid.yy",},"order":0,},
+    {"id":{"name":"rm_QL","path":"rooms/rm_QL/rm_QL.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_ql","path":"rooms/rm_ql/rm_ql.yy",},},
+    {"roomId":{"name":"rm_QL","path":"rooms/rm_QL/rm_QL.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
