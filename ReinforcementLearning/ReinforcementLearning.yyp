@@ -12,6 +12,8 @@
   "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"rooms","folderPath":"folders/rooms.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sprites","folderPath":"folders/sprites.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/tilesets.yy","order":0,},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -19,10 +21,14 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
-    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
+    {"id":{"name":"spr_tileset_icy_land","path":"sprites/spr_tileset_icy_land/spr_tileset_icy_land.yy",},"order":0,},
+    {"id":{"name":"spr_tileset_icy_props","path":"sprites/spr_tileset_icy_props/spr_tileset_icy_props.yy",},"order":0,},
+    {"id":{"name":"ts_icy_land","path":"tilesets/ts_icy_land/ts_icy_land.yy",},"order":0,},
+    {"id":{"name":"ts_icy_props","path":"tilesets/ts_icy_props/ts_icy_props.yy",},"order":0,},
+    {"id":{"name":"rm_ql","path":"rooms/rm_ql/rm_ql.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"roomId":{"name":"rm_ql","path":"rooms/rm_ql/rm_ql.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

@@ -1,6 +1,10 @@
 {
   "FolderOrderSettings": [
-    {"name":"rooms","order":10,"path":"folders/rooms.yy",},
+    {"name":"sprites","order":2,"path":"folders/sprites.yy",},
+    {"name":"tilesets","order":1,"path":"folders/tilesets.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_tileset_icy_props","order":1,"path":"sprites/spr_tileset_icy_props/spr_tileset_icy_props.yy",},
+    {"name":"ts_icy_props","order":1,"path":"tilesets/ts_icy_props/ts_icy_props.yy",},
+  ],
 }
